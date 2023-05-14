@@ -5,7 +5,9 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nouhaila</h1></summary>
+    <summary><h1 style="display: inline-block">👋 Hi, I'm Nouhaila 👋</h1></summary>
+<img width="130" alt="mypic" src="https://github.com/spirithuntt/spirithuntt/assets/112879456/0b615261-16b5-4ab7-b586-3d7f5b3507f1">
+
   </ul>
 </div>
 
