@@ -30,7 +30,7 @@
 <!--Intro start-->
 - 🔭 I’m currently studying at **Youcode**
 
-- 🌱 I’m currently learning **Java, React, ThreeJs**
+- 🌱 I’m currently learning **Java**
 
 - 📫 Feel free to reach me out **nouhaila.elhousnii@gmail.com**
 
